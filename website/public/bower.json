@@ -1,0 +1,24 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/imaginezz/P4_INT",
+  "authors": [
+    "Jason <imaginezz@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "echarts": "^3.5.3",
+    "d3": "#3",
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
